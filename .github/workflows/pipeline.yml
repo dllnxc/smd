@@ -19,5 +19,5 @@ jobs:
 
       - name: Build and push Docker image
         run: |
-          docker build -t your-dockerhub-username/my-python-app:latest .
-          docker push your-dockerhub-username/my-python-app:latest
+          docker build -t dllnxc/my-python-app:latest .
+          docker push dllnxc/my-python-app:latest
