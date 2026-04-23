@@ -179,7 +179,7 @@ class QIMWatermark:
         plt.show()
 
 def main():
-    IMAGE_URL = r"C:\Users\LENOVO\Desktop\hoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo\img.png"
+    IMAGE_URL = "img.png"
     print("=" * 60)
     print("QIM Digital Watermarking System")
     print("=" * 60)
