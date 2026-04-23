@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use('Agg')
 import numpy as np
 import cv2
 from scipy.fftpack import dct, idct
